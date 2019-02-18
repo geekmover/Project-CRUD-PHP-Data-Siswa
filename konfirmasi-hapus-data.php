@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/png" href="icon/alarm.png" />
 <?php
 
     include 'configuration.php';

@@ -6,6 +6,7 @@
 <html>
 <head>
 	<title>List Database Calon Siswa Baru | Madrasah Koders</title>
+    <link rel="shortcut icon" type="image/png" href="icon/search.png" />
 </head>
 <style type="text/css">
     select {
