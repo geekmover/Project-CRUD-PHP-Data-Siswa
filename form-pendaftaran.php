@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Form Tambah Siswa Baru | Madrasah Koders</title>
+    <link rel="shortcut icon" type="image/png" href="icon/add.png" />
 </head>
 <style type="text/css">
     select {
@@ -11,7 +12,7 @@
 </style>
 
 <body style="font-family: monospace;">
-	<br><br><br>
+	<br><br><br><br><br><br><br><br><br><br>
 	<center>
 	<font size="6"><b>FORM TAMBAH SISWA BARU</font></b><br>
 	Data siswa ini adalah data lengkap dari siswa baru yang akan mendaftar ke sekolah.<br><br><br><br>	

@@ -6,9 +6,9 @@
 </head>
 
 <body style="font-family: monospace;">
-    <br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <center>
-	<font size="10"><b>Madrasah Indonesia</b></font><br>
+	<font size="10"><b>Aplikasi Madrasah Indonesia</b></font><br>
     <font size="3"><b>Selamat Datang, Di informasi pendaftaran siswa baru</b></font>
 
     <br><br><br><br>

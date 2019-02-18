@@ -6,6 +6,7 @@
 <html>
 <head>
 	<title>List Database Calon Siswa Baru | Madrasah Koders</title>
+    <link rel="shortcut icon" type="image/png" href="icon/list-data.png" />
 </head>
 <style type="text/css">
     select {
@@ -29,7 +30,7 @@
 </style>
 
 <body style="font-family: monospace;">
-	<br><br><br>
+	<br><br><br><br><br><br><br><br><br><br>
 	<center>
 	<font size="6"><b>LIST DATA PENDAFTAR BARU</font></b><br>
 	Data siswa ini adalah data lengkap dari siswa baru yang akan mendaftar ke sekolah.<br><br><br><br>	
