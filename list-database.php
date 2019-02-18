@@ -76,7 +76,7 @@
 	<p>Total Pendaftar Masuk: <b><?php echo mysqli_num_rows($query) ?> Siswa</b></p>
 	<br><br><br>
     Copyright &copy; 2018 Form Pendaftaran Siswa. All right reserved.<br><br><br>
-	<a href="index.php">[^] Ke Halaman Utama</a>
+	<a href="index.php">[^] Ke Halaman Utama</a>&nbsp;&nbsp;<a href="form-pendaftaran.php">[^] Tambahkan Data Lagi</a>&nbsp;&nbsp;<a href="cari-data-siswa.php">[^] Cari Data dengan Berdasasrkan</a>
 	&nbsp;
 	</body>
 </html>
